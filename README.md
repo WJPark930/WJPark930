@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![WONJUN's GitHub stats](https://github-readme-stats.vercel.app/api?WJPark930=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?WJPark930=anuraghazra&layout=compact)
 
