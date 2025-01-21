@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=fafafa&height=120&text=WON%20JUN%20PARK&animation=&fontColor=3d3c3e&fontSize=40" />
     </div>
-    <div>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WJPark930)](https://github.com/anuraghazra/github-readme-stats) 
+
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJPark930&layout=compact&bg_color=60,fcf8f8,00000000&title_color=ffffff&text_color=ffffff"
+           /> </div> 
     </div>
+ 
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">  
@@ -38,6 +41,8 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           </div>
     </div>
+
+    
     
 
 
